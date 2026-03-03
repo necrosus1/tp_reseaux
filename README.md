@@ -13,3 +13,7 @@
 ## TP2 : 
 
 - tp2/part1
+
+- tp2/part2
+
+- tp2/part3
